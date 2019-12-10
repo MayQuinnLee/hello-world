@@ -1,3 +1,4 @@
 # hello-world
 first repository on Github
-Learning coding
+Where could this bring me?
+To the moon or back to Earth? 
